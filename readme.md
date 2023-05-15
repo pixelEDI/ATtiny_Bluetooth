@@ -18,6 +18,10 @@
 * Write & Notification UUID: fec26ec4-6d71-4442-9f81-55bc21d658d6
 
 
+## Function
+* If a "1" is send via bluetooth a relais will be triggered
+
+
 ## Wiring: 
 Software Serial choose 2 pins.
 
